@@ -12,7 +12,7 @@ We can select users, products or carts.
 Depending on what we select we are prompt with three seperate menus.
 The user menu contains the following options:
 
-##Users
+## Users
 
 1. Get all users
 -This returns all of the users available.
@@ -33,7 +33,7 @@ By typing in yes or no these images will be saved in the directory images if yes
 6. Search a user
 -By entering the name of a user for example "John" the users with name John will be found.
 
-##Products
+## Products
 
 1. Get all products
 -This returns all of the products available.
@@ -53,7 +53,7 @@ By typing in yes or no these images will be saved in the directory images if yes
 6. Search for a product
 -By entering the product for example "phone" the products which are phones will be found.
 
-##Carts
+## Carts
 
 1. Get all carts
 -This returns all of the carts available.
